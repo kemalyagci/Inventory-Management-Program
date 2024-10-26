@@ -1,7 +1,5 @@
-![image](https://github.com/user-attachments/assets/6c199a56-6283-4c67-b49c-44b082acdc2b)
-
 # Inventory Management System
-
+![image](https://github.com/user-attachments/assets/6c199a56-6283-4c67-b49c-44b082acdc2b)
 ## Overview
 The **Inventory Management System** is a C++/CLI application designed to manage inventory and stock levels for items in a database. The program allows users to add, update, search, and delete items, as well as manage categories and generate low stock reports. This system is connected to a SQL Server database and provides a user-friendly interface for interacting with the inventory.
 
