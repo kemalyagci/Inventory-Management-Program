@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/6c199a56-6283-4c67-b49c-44b082acdc2b)
 
 # Inventory Management System
 
