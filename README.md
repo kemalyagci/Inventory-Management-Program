@@ -67,5 +67,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## Contact
 For any questions or issues, feel free to contact the developer:
 - **Developer**: Muhammed Kemal Yağcı
-- (https://www.linkedin.com/in/muhammed-yagci/)
+- (https://www.linkedin.com/in/kemalyagci/)
 
